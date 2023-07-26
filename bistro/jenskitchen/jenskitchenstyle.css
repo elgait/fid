@@ -1,0 +1,30 @@
+﻿
+body {
+    margin: 2em 6em;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1, h2 {
+    color: #399;
+    font-family: 'Aboreto';
+}
+
+h1 {
+    font-size: 1.5em;
+    font-family: 'Aboreto';
+}
+
+h2 {
+    font-family: 'Aboreto';
+    font-size: 1em;
+}
+
+small {
+    color: #999;
+}
+ul {
+    font-family: 'Abel';
+}
+p1 {
+    font-family: 'Abel';
+}
