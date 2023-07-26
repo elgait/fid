@@ -1,0 +1,55 @@
+﻿body {
+    background-image: url('MOUNTAINS.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+nav {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    list-style: none;
+    margin-left: 0px;
+    font-family: 'Aboreto'
+}
+
+    nav li {
+        display: inline-block;
+        text-align: center;
+    }
+
+ol {
+    margin: 100;
+    padding: 0;
+    overflow: hidden;
+    min-height: 100%;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Aboreto'
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a:link {
+    color: #ffffff;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a:focus, a:hover {
+    color: #ffffff73
+}
+
+a:active {
+    color: #ffffff73;
+    background-color: #ffffff73
+}
+h1, h2, h3, h4, h5, h6, h7, p1, p2, li {
+    font-size: 30px;
+    color: #ffffff;
+    font-family: 'Aboreto'
+}
